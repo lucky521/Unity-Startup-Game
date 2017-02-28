@@ -46,6 +46,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\lu_script\Rotator.cs" />
+     <Compile Include="Assets\lu_script\collider.cs" />
      <Compile Include="Assets\lu_script\lu_game.cs" />
  <Reference Include="UnityEngine.Networking">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
